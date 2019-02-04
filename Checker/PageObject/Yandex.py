@@ -15,7 +15,7 @@ class Yandex:
 
     def check_data_in_input_search(self, data):
         """
-        Проверяем, что в инпуте поитска верное значение
+        Проверяем, что в инпуте поиска верное значение
 
         :return:
         """
