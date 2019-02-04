@@ -18,7 +18,6 @@ def test_search_qwerty(page_object):
     ya_page.get_ya_page()
     ya_page.check_title()
     ya_page.fill_search_input(search_data)
-    assert False
 
     yandex_search_page = ya_page.search_btn_click()
     yandex_search_page.check_data_in_input_search(search_data)
