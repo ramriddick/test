@@ -1,0 +1,16 @@
+{
+  "urls": {
+      "ya": "https://ya.ru",
+      "github": "https://api.github.com"
+  },
+  "browser": "chrome",
+  "grid_url": "",
+  "use_grid": true,
+  "browser_options": {
+      "maximize_window_on_startup": true,
+      "chrome": [
+          "--fast",
+          "--ignore-certificate-errors"
+      ]
+  }
+}
