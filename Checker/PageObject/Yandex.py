@@ -15,7 +15,7 @@ class Yandex:
 
     def check_data_in_input_search(self, data):
         """
-        Переходим на страницу грузов
+        Проверяем, что в инпуте поитска верное значение
 
         :return:
         """
